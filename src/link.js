@@ -6,7 +6,7 @@ try {
   });
 } catch (e) {
   //Ignore error as we don't have the function yet
-}
+} 
 
 //checking trial 2
 const defenders = document.querySelector(".defence");
