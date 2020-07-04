@@ -136,7 +136,7 @@ function  filterByAwardxCountry(awardName,country){
         player_country.push(players[i]);
       }
     }
-  }
+  }     
   return player_country;
 }
 
